@@ -84,6 +84,11 @@
         </h2>
       </div>
       <!--pre pic-->
+        <div class="col-sm-12">
+            <h5 class="heading text-center"><u>School <span class="color2">Photos</span></u>
+       
+        </h5>
+      </div>
       <div class="col-md-4">
         <div class="gallery-card">
           <a href="images/ind/2019/pic-19-01.jpg" data-gal="prettyPhoto[galleryName]" class="img-zoom"><i class="fa fa-expand"></i></a>
@@ -126,7 +131,11 @@
           <img src="images/ind/2019/pic-19-06.jpg" class="img-responsive" alt="">
         </div>
       </div>
-
+        <div class="col-sm-12">
+            <h5 class="heading text-center"><u>Library <span class="color2">Photos</span></u>
+       
+        </h5>
+      </div>
       <div class="col-md-4">
         <div class="gallery-card">
           <a href="images/ind/2019/pic-19-07.jpg" data-gal="prettyPhoto[galleryName]" class="img-zoom"><i class="fa fa-expand"></i></a>
@@ -167,7 +176,11 @@
           <img src="images/ind/2019/pic-19-012.jpg" class="img-responsive" alt="">
         </div>
       </div>
-
+        <div class="col-sm-12">
+            <h5 class="heading text-center"><u>Sport Club <span class="color2">Photos</span></u>
+       
+        </h5>
+      </div>
       <div class="col-md-4">
         <div class="gallery-card">
           <a href="images/ind/2019/pic-19-013.jpg" data-gal="prettyPhoto[galleryName]" class="img-zoom"><i class="fa fa-expand"></i></a>
@@ -188,7 +201,11 @@
           <img src="images/ind/2019/pic-19-015.jpg" class="img-responsive" alt="">
         </div>
       </div>
-
+        <div class="col-sm-12">
+            <h5 class="heading text-center"><u>Admin <span class="color2">Photos</span></u>
+       
+        </h5>
+      </div>
       <div class="col-md-4">
         <div class="gallery-card">
           <a href="images/ind/2019/pic-19-016.jpg" data-gal="prettyPhoto[galleryName]" class="img-zoom"><i class="fa fa-expand"></i></a>
@@ -216,7 +233,11 @@
           <img src="images/ind/2019/pic-19-019.jpg" class="img-responsive" alt="">
         </div>
       </div>
-
+        <div class="col-sm-12">
+            <h5 class="heading text-center"><u>Laboratory <span class="color2">Photos</span></u>
+       
+        </h5>
+      </div>
       <div class="col-md-4">
         <div class="gallery-card">
           <a href="images/ind/2019/pic-19-020.jpg" data-gal="prettyPhoto[galleryName]" class="img-zoom"><i class="fa fa-expand"></i></a>
@@ -257,7 +278,11 @@
           <img src="images/ind/2019/pic-19-025.jpg" class="img-responsive" alt="">
         </div>
       </div>
-
+        <div class="col-sm-12">
+            <h5 class="heading text-center"><u>IOT Lab <span class="color2">Photos</span></u>
+       
+        </h5>
+      </div>
       <div class="col-md-4">
         <div class="gallery-card">
           <a href="images/ind/2019/pic-19-026.jpg" data-gal="prettyPhoto[galleryName]" class="img-zoom"><i class="fa fa-expand"></i></a>

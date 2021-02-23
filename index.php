@@ -195,7 +195,26 @@
   </div>
 </div>
 <!-- Revolution Slider Ends -->
-
+<div class="container mt-100">
+    
+  <div class="row">
+    <div class="col-sm-12">
+         <h2 class="heading text-center">Take a <span class="color2"> Virtual tour</span>  <span class="icon-divider"></span> </h2>
+      </div>
+    </div>
+    <div class="row mt-20">
+<div class= "col-sm-4"><br>
+    <br>
+    <h4>Watch full virtual tour here.</h4><br>
+    <h3>Experience Like <span class="color2">Reality</span> 👉</h3>
+        </div>
+        <div class= "col-sm-8">
+         <div class="video-responsive">
+    <iframe width="420" height="315" src="https://www.youtube.com/embed/tgbNymZ7vqY" frameborder="0" allowfullscreen></iframe>
+</div>
+        </div>
+    </div>
+</div>
 <div class="mb-100">
   <div class="container">
     <div class="row">
@@ -292,26 +311,7 @@
     </div>
   </div>
 </div>
-<div class="container mb-100">
-    
-  <div class="row">
-    <div class="col-sm-12">
-         <h2 class="heading text-center">Take a <span class="color2"> Virtual tour</span>  <span class="icon-divider"></span> </h2>
-      </div>
-    </div>
-    <div class="row mt-20">
-<div class= "col-sm-6">
-         <div class="video-responsive">
-    <iframe width="420" height="315" src="https://www.youtube.com/embed/tgbNymZ7vqY" frameborder="0" allowfullscreen></iframe>
-</div>
-        </div>
-        <div class= "col-sm-6">
-         <div class="video-responsive">
-    <iframe width="420" height="315" src="https://www.youtube.com/embed/tgbNymZ7vqY" frameborder="0" allowfullscreen></iframe>
-</div>
-        </div>
-    </div>
-</div>
+
 <div class="clearfix"></div>
 <div class="container mb-100">
   <div class="row">
